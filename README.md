@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @om-priya
 - 👀 I’m interested in web development, Anime.
 - 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any projects related to web
 - 📫 ping me on twitter @Iamompriya
 
 <!---
