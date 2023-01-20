@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @om-priya
-- 👀 I’m interested in web development, Anime.
-- 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on any projects related to web
+Welcome to my GitHub profile!
+I am a web developer with experience in creating dynamic and responsive websites using modern technologies such as HTML, CSS, JavaScript, and various frameworks such as React.
+
+On my profile, you will find a variety of projects that showcase my skills and experience. Some of my notable projects include:
+
+(currently working on these projects)
+A e-commerce website built with MERN stack that features a clean and user-friendly interface, secure authentication and real-time updates.
+A social media web app built with React and Node.js that includes features such as user authentication, real-time chat, and a responsive design.
+I am always looking for new challenges and opportunities to improve my skills, so feel free to reach out to me if you have any questions or if you're interested in working on a project together.
+
+Thanks for visiting my profile!
+
 - 📫 ping me on twitter @Iamompriya
 
 <!---
