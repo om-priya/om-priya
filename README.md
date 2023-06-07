@@ -12,7 +12,7 @@ I am always looking for new challenges and opportunities to improve my skills, s
 
 Thanks for visiting my profile!
 
-- 📫 ping me on twitter @Iamompriya
+- 📫 ping me on twitter @just__op
 
 <!---
 om-priya/om-priya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
