@@ -1,10 +1,3 @@
-<div align="center">
- <img src="https://media.licdn.com/dms/image/C4D16AQF_8NgA8MZneA/profile-displaybackgroundimage-shrink_350_1400/0/1663662109745?e=1692835200&v=beta&t=s9OE1kdqF_deT0yVkpQUT3JHaBZH_z7SaAI_ZmIUaqw">
-</div>
-
-<br>
-
-
 <h1 align="center">Hi 👋, I'm Om Priya <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <div align="center">
